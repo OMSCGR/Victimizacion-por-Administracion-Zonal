@@ -1,1 +1,2 @@
-- Percepción de Inseguridad y Victimización por Administración Zonal 2023-2024 vs 2025-2026: https://omscgr.github.io/Victimizacion-por-Administracion-Zonal/
+- 📊 Percepción de Inseguridad y Victimización por Administración Zonal 2023-2024 vs 2025-2026: https://omscgr.github.io/Victimizacion-por-Administracion-Zonal/
+- 💻 Notebook: https://colab.research.google.com/drive/1P21f7ZpeJyXxn7XUfgrG5GkuN4sfnORt?usp=sharing
